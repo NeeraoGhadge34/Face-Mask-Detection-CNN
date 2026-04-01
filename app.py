@@ -57,7 +57,7 @@ if uploaded_file is not None:
             prediction = model1.predict(img_arr)
             score = prediction[0][0]
 
-        confidence = score if score > 0.65 else 1 - score
+        confidence = score if score > 0.5 else 1 - score
 
         st.write(f"Confidence: **{confidence*100:.2f}%**")
         st.progress(float(confidence))
