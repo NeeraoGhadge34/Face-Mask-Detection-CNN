@@ -192,6 +192,7 @@ Code Push → Build Docker Image → Push to AWS ECR → Deploy on EC2
 If you liked this project or have suggestions, feel free to connect!
 
 🔗 LinkedIn: *https://www.linkedin.com/in/neerao-ghadge-625329204/*
+
 🔗 GitHub: https://github.com/NeeraoGhadge34
 
 ---
