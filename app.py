@@ -26,4 +26,3 @@ if uploaded_file is not None:
         st.success('Approved! The person in the image is wearing a mask 😷')
     else:
         st.error('Warning! The Person in the image is not wearing a mask ⚠️')
-        
